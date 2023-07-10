@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman';
+    font-size: small;
+    background-image: url(..//hinhanh/anh1.png);
+    width: 990px;
+    height: 730px;
+}
+#banner {
+    background-image: none;
+    border:1px solid yellow;
+    padding: 40px;
+    margin-left: 320px;
+    margin-right: 320px;
+    height: 300px;
+}

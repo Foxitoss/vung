@@ -1,0 +1,44 @@
+body{
+    background-color: red;
+    width: auto;
+    height: auto;
+}
+#banner{
+    background-color: rgb(255, 123, 0)    ;
+    width: auto;
+    height: 100px;
+    float: right;
+}
+#banner img{
+    width: 100px;
+    height: 100px;
+}
+#banner ul{
+    list-style-type: none;
+}
+#banner li{
+    float: right;
+    width: 120px;
+    line-height: 30px;
+}
+#banner a{
+    text-decoration: none;
+    color: #fff;
+    display: block;
+}
+#banner a:hover {
+    background: #584ee4;
+    color: #cc7c13;
+  }
+#body{
+    background-color: black;
+}
+#body #left{
+    background-color: aqua;
+    width: 200px; height: 1000px;
+    float: left;
+}
+#body #right{
+    background-color: blue;
+    width: auto; height: 1000px;
+}
